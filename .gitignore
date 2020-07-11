@@ -4,7 +4,8 @@
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
 # Added my domhuff
-.DS_Store
+
+*.DS_Store
 .idea
 .vscode
 .ipynb_checkpoints
