@@ -1,0 +1,322 @@
+countrycode	postalcode	placename	adminname1	admincode1	adminname2	admincode2	adminname3	admincode3	latitude	longitude	accuracy
+US	80452	Idaho Springs	Colorado	CO	Clear Creek	019			39.7402	-105.5983	4
+US	83616	Eagle	Idaho	ID	Ada	001			43.7069	-116.362	4
+US	83634	Kuna	Idaho	ID	Ada	001			43.487	-116.3819	4
+US	83642	Meridian	Idaho	ID	Ada	001			43.615	-116.3975	4
+US	83669	Star	Idaho	ID	Ada	001			43.7013	-116.4967	4
+US	83680	Meridian	Idaho	ID	Ada	001			43.6121	-116.3915	4
+US	83701	Boise	Idaho	ID	Ada	001			43.6038	-116.2729	4
+US	83702	Boise	Idaho	ID	Ada	001			43.6322	-116.2052	4
+US	83703	Boise	Idaho	ID	Ada	001			43.6601	-116.2524	4
+US	83704	Boise	Idaho	ID	Ada	001			43.633	-116.2951	4
+US	83705	Boise	Idaho	ID	Ada	001			43.5851	-116.2191	4
+US	83706	Boise	Idaho	ID	Ada	001			43.5885	-116.191	4
+US	83707	Boise	Idaho	ID	Ada	001			43.6135	-116.2035	4
+US	83708	Boise	Idaho	ID	Ada	001			43.4599	-116.244	4
+US	83709	Boise	Idaho	ID	Ada	001			43.5741	-116.2941	4
+US	83711	Boise	Idaho	ID	Ada	001			43.4599	-116.244	4
+US	83712	Boise	Idaho	ID	Ada	001			43.6023	-116.1649	4
+US	83713	Boise	Idaho	ID	Ada	001			43.634	-116.3419	4
+US	83714	Garden City	Idaho	ID	Ada	001			43.7318	-116.2797	4
+US	83715	Boise	Idaho	ID	Ada	001			43.4599	-116.244	4
+US	83716	Boise	Idaho	ID	Ada	001			43.5345	-115.9711	4
+US	83717	Boise	Idaho	ID	Ada	001			43.4599	-116.244	4
+US	83719	Boise	Idaho	ID	Ada	001			43.4599	-116.244	4
+US	83720	Boise	Idaho	ID	Ada	001			43.4599	-116.244	4
+US	83722	Boise	Idaho	ID	Ada	001			43.4599	-116.244	4
+US	83724	Boise	Idaho	ID	Ada	001			43.6195	-116.1952	4
+US	83725	Boise	Idaho	ID	Ada	001			43.4599	-116.244	4
+US	83726	Boise	Idaho	ID	Ada	001			43.4599	-116.244	4
+US	83728	Boise	Idaho	ID	Ada	001			43.6135	-116.2035	4
+US	83729	Boise	Idaho	ID	Ada	001			43.4599	-116.244	4
+US	83731	Boise	Idaho	ID	Ada	001			43.4599	-116.244	4
+US	83732	Boise	Idaho	ID	Ada	001			43.4599	-116.244	4
+US	83735	Boise	Idaho	ID	Ada	001			43.6135	-116.2035	4
+US	83756	Boise	Idaho	ID	Ada	001			43.4599	-116.244	4
+US	83799	Boise	Idaho	ID	Ada	001			43.6135	-116.2035	4
+US	83612	Council	Idaho	ID	Adams	003			44.7628	-116.4518	4
+US	83632	Indian Valley	Idaho	ID	Adams	003			44.5491	-116.443	4
+US	83643	Mesa	Idaho	ID	Adams	003			44.6255	-116.4493	4
+US	83654	New Meadows	Idaho	ID	Adams	003			44.994	-116.2874	4
+US	83201	Pocatello	Idaho	ID	Bannock	005			42.8876	-112.4381	4
+US	83202	Pocatello	Idaho	ID	Bannock	005			42.9357	-112.4679	4
+US	83204	Pocatello	Idaho	ID	Bannock	005			42.8465	-112.4434	4
+US	83205	Pocatello	Idaho	ID	Bannock	005			42.8062	-112.4103	4
+US	83206	Pocatello	Idaho	ID	Bannock	005			42.8713	-112.4455	4
+US	83209	Pocatello	Idaho	ID	Bannock	005			42.6395	-112.3138	4
+US	83214	Arimo	Idaho	ID	Bannock	005			42.56	-112.1746	4
+US	83234	Downey	Idaho	ID	Bannock	005			42.4181	-112.109	4
+US	83245	Inkom	Idaho	ID	Bannock	005			42.7964	-112.2465	4
+US	83246	Lava Hot Springs	Idaho	ID	Bannock	005			42.6185	-112.0176	4
+US	83250	McCammon	Idaho	ID	Bannock	005			42.6336	-112.1758	4
+US	83281	Swanlake	Idaho	ID	Bannock	005			42.3195	-111.9781	4
+US	83220	Bern	Idaho	ID	Bear Lake	007			42.3191	-111.3926	4
+US	83223	Bloomington	Idaho	ID	Bear Lake	007			42.184	-111.4086	4
+US	83233	Dingle	Idaho	ID	Bear Lake	007			42.1774	-111.2174	4
+US	83238	Geneva	Idaho	ID	Bear Lake	007			42.3136	-111.0722	4
+US	83239	Georgetown	Idaho	ID	Bear Lake	007			42.4821	-111.3708	4
+US	83254	Montpelier	Idaho	ID	Bear Lake	007			42.352	-111.3195	1
+US	83261	Paris	Idaho	ID	Bear Lake	007			42.2242	-111.4208	4
+US	83272	Saint Charles	Idaho	ID	Bear Lake	007			42.1128	-111.3897	4
+US	83287	Fish Haven	Idaho	ID	Bear Lake	007			42.0459	-111.4633	4
+US	83824	Desmet	Idaho	ID	Benewah	009			47.126	-116.8937	1
+US	83830	Fernwood	Idaho	ID	Benewah	009			47.116	-116.3831	4
+US	83851	Plummer	Idaho	ID	Benewah	009			47.3278	-116.8662	4
+US	83861	Saint Maries	Idaho	ID	Benewah	009			47.2977	-116.5681	4
+US	83866	Santa	Idaho	ID	Benewah	009			47.1544	-116.431	4
+US	83870	Tensed	Idaho	ID	Benewah	009			47.1707	-116.9027	4
+US	83203	Fort Hall	Idaho	ID	Bingham	011			43.0331	-112.4285	4
+US	83210	Aberdeen	Idaho	ID	Bingham	011			43.0049	-112.84	4
+US	83215	Atomic City	Idaho	ID	Bingham	011			43.4449	-112.8128	4
+US	83218	Basalt	Idaho	ID	Bingham	011			43.3155	-112.1644	4
+US	83221	Blackfoot	Idaho	ID	Bingham	011			43.1943	-112.3615	4
+US	83236	Firth	Idaho	ID	Bingham	011			43.3021	-112.1588	4
+US	83256	Moreland	Idaho	ID	Bingham	011			43.2226	-112.4423	4
+US	83262	Pingree	Idaho	ID	Bingham	011			43.1336	-112.6295	4
+US	83274	Shelley	Idaho	ID	Bingham	011			43.3769	-112.1075	4
+US	83277	Springfield	Idaho	ID	Bingham	011			43.0803	-112.673	4
+US	83313	Bellevue	Idaho	ID	Blaine	013			43.4397	-114.2498	4
+US	83320	Carey	Idaho	ID	Blaine	013			43.2744	-113.8926	4
+US	83333	Hailey	Idaho	ID	Blaine	013			43.5239	-114.3064	4
+US	83340	Ketchum	Idaho	ID	Blaine	013			43.6692	-114.4858	4
+US	83348	Picabo	Idaho	ID	Blaine	013			43.3101	-114.0861	4
+US	83353	Sun Valley	Idaho	ID	Blaine	013			43.6853	-114.3313	4
+US	83354	Sun Valley	Idaho	ID	Blaine	013			43.5946	-114.3226	4
+US	83602	Banks	Idaho	ID	Boise	015			44.0804	-116.124	4
+US	83622	Garden Valley	Idaho	ID	Boise	015			44.0909	-115.8243	4
+US	83629	Horseshoe Bend	Idaho	ID	Boise	015			43.9229	-116.1809	4
+US	83631	Idaho City	Idaho	ID	Boise	015			43.8834	-115.708	4
+US	83637	Lowman	Idaho	ID	Boise	015			44.1106	-115.5285	4
+US	83646	Meridian	Idaho	ID	Boise	015			43.6498	-116.4306	4
+US	83666	Placerville	Idaho	ID	Boise	015			43.9633	-115.9759	4
+US	83804	Blanchard	Idaho	ID	Bonner	017			48.0223	-116.9909	4
+US	83809	Careywood	Idaho	ID	Bonner	017			48.0482	-116.5939	4
+US	83811	Clark Fork	Idaho	ID	Bonner	017			48.1405	-116.1699	4
+US	83813	Cocolalla	Idaho	ID	Bonner	017			48.1248	-116.6571	4
+US	83821	Coolin	Idaho	ID	Bonner	017			48.5228	-116.8408	4
+US	83822	Oldtown	Idaho	ID	Bonner	017			48.1552	-116.9781	4
+US	83825	Dover	Idaho	ID	Bonner	017			48.2516	-116.611	4
+US	83836	Hope	Idaho	ID	Bonner	017			48.2444	-116.2795	4
+US	83840	Kootenai	Idaho	ID	Bonner	017			48.3102	-116.5135	4
+US	83841	Laclede	Idaho	ID	Bonner	017			48.1702	-116.756	4
+US	83848	Nordman	Idaho	ID	Bonner	017			48.6339	-116.9473	4
+US	83852	Ponderay	Idaho	ID	Bonner	017			48.3055	-116.5338	4
+US	83856	Priest River	Idaho	ID	Bonner	017			48.1664	-116.9066	4
+US	83860	Sagle	Idaho	ID	Bonner	017			48.2035	-116.5455	4
+US	83864	Sandpoint	Idaho	ID	Bonner	017			48.312	-116.5332	4
+US	83865	Colburn	Idaho	ID	Bonner	017			48.3633	-116.6256	4
+US	83401	Idaho Falls	Idaho	ID	Bonneville	019			43.5518	-111.8919	4
+US	83402	Idaho Falls	Idaho	ID	Bonneville	019			43.4934	-112.0578	4
+US	83403	Idaho Falls	Idaho	ID	Bonneville	019			43.4666	-112.0341	4
+US	83404	Idaho Falls	Idaho	ID	Bonneville	019			43.475	-112.0124	4
+US	83405	Idaho Falls	Idaho	ID	Bonneville	019			43.4666	-112.0341	4
+US	83406	Idaho Falls	Idaho	ID	Bonneville	019			43.4732	-111.9661	4
+US	83415	Idaho Falls	Idaho	ID	Bonneville	019			43.4666	-112.0341	4
+US	83427	Iona	Idaho	ID	Bonneville	019			43.5263	-111.933	4
+US	83428	Irwin	Idaho	ID	Bonneville	019			43.3861	-111.2527	4
+US	83449	Swan Valley	Idaho	ID	Bonneville	019			43.456	-111.3416	4
+US	83454	Ucon	Idaho	ID	Bonneville	019			43.5936	-111.9573	4
+US	83805	Bonners Ferry	Idaho	ID	Boundary	021			48.7306	-116.3322	4
+US	83826	Eastport	Idaho	ID	Boundary	021			48.9994	-116.1813	4
+US	83845	Moyie Springs	Idaho	ID	Boundary	021			48.7464	-116.1796	4
+US	83847	Naples	Idaho	ID	Boundary	021			48.6049	-116.3196	4
+US	83853	Porthill	Idaho	ID	Boundary	021			48.992	-116.4775	4
+US	83213	Arco	Idaho	ID	Butte	023			43.6355	-113.3176	4
+US	83244	Howe	Idaho	ID	Butte	023			43.9087	-113.0878	4
+US	83255	Moore	Idaho	ID	Butte	023			43.7296	-113.4544	4
+US	83322	Corral	Idaho	ID	Camas	025			43.5282	-114.7307	1
+US	83327	Fairfield	Idaho	ID	Camas	025			43.3675	-114.7908	4
+US	83337	Hill City	Idaho	ID	Camas	025			43.3005	-115.0512	4
+US	83605	Caldwell	Idaho	ID	Canyon	027			43.6627	-116.7	4
+US	83606	Caldwell	Idaho	ID	Canyon	027			43.7249	-116.7989	4
+US	83607	Caldwell	Idaho	ID	Canyon	027			43.6186	-116.7501	4
+US	83626	Greenleaf	Idaho	ID	Canyon	027			43.669	-116.8315	4
+US	83630	Huston	Idaho	ID	Canyon	027			43.6027	-116.7903	4
+US	83641	Melba	Idaho	ID	Canyon	027			43.3784	-116.5489	4
+US	83644	Middleton	Idaho	ID	Canyon	027			43.7191	-116.6112	4
+US	83651	Nampa	Idaho	ID	Canyon	027			43.5834	-116.5848	4
+US	83652	Nampa	Idaho	ID	Canyon	027			43.7071	-116.6208	4
+US	83653	Nampa	Idaho	ID	Canyon	027			43.5851	-116.753	4
+US	83656	Notus	Idaho	ID	Canyon	027			43.7259	-116.7997	4
+US	83660	Parma	Idaho	ID	Canyon	027			43.7896	-116.9401	4
+US	83676	Wilder	Idaho	ID	Canyon	027			43.6579	-116.9122	4
+US	83686	Nampa	Idaho	ID	Canyon	027			43.5441	-116.566	4
+US	83687	Nampa	Idaho	ID	Canyon	027			43.5937	-116.536	4
+US	83217	Bancroft	Idaho	ID	Caribou	029			42.7205	-111.8429	4
+US	83230	Conda	Idaho	ID	Caribou	029			42.7191	-111.5967	4
+US	83241	Grace	Idaho	ID	Caribou	029			42.55	-111.74	4
+US	83276	Soda Springs	Idaho	ID	Caribou	029			42.6718	-111.5699	4
+US	83285	Wayan	Idaho	ID	Caribou	029			43.0269	-111.2541	4
+US	83311	Albion	Idaho	ID	Cassia	031			42.3896	-113.5567	4
+US	83312	Almo	Idaho	ID	Cassia	031			42.0846	-113.6283	4
+US	83318	Burley	Idaho	ID	Cassia	031			42.5244	-113.7931	4
+US	83323	Declo	Idaho	ID	Cassia	031			42.5245	-113.4338	4
+US	83342	Malta	Idaho	ID	Cassia	031			42.2741	-113.3927	4
+US	83346	Oakley	Idaho	ID	Cassia	031			42.194	-113.872	4
+US	83423	Dubois	Idaho	ID	Clark	033			44.1858	-112.3259	4
+US	83446	Spencer	Idaho	ID	Clark	033			44.3605	-112.1869	4
+US	83520	Ahsahka	Idaho	ID	Clearwater	035			46.5394	-116.3233	4
+US	83541	Lenore	Idaho	ID	Clearwater	035			46.5354	-116.513	4
+US	83544	Orofino	Idaho	ID	Clearwater	035			46.4952	-116.2404	4
+US	83546	Pierce	Idaho	ID	Clearwater	035			46.4924	-115.8071	4
+US	83553	Weippe	Idaho	ID	Clearwater	035			46.3807	-115.9386	4
+US	83827	Elk River	Idaho	ID	Clearwater	035			46.7835	-116.1799	4
+US	83226	Challis	Idaho	ID	Custer	037			44.4969	-114.1946	4
+US	83227	Clayton	Idaho	ID	Custer	037			44.2733	-114.4102	4
+US	83235	Ellis	Idaho	ID	Custer	037			44.6919	-114.0484	1
+US	83251	Mackay	Idaho	ID	Custer	037			43.9111	-113.612	1
+US	83278	Stanley	Idaho	ID	Custer	037			44.3714	-114.8561	1
+US	83601	Atlanta	Idaho	ID	Elmore	039			43.8479	-115.2538	4
+US	83623	Glenns Ferry	Idaho	ID	Elmore	039			42.9622	-115.316	4
+US	83627	Hammett	Idaho	ID	Elmore	039			42.9457	-115.4662	4
+US	83633	King Hill	Idaho	ID	Elmore	039			42.9799	-115.1899	4
+US	83647	Mountain Home	Idaho	ID	Elmore	039			43.1392	-115.6963	4
+US	83648	Mountain Home Afb	Idaho	ID	Elmore	039			43.7914	-116.4012	1
+US	83228	Clifton	Idaho	ID	Franklin	041			42.216	-111.9957	1
+US	83232	Dayton	Idaho	ID	Franklin	041			42.1184	-111.9858	4
+US	83237	Franklin	Idaho	ID	Franklin	041			42.0288	-111.7871	4
+US	83263	Preston	Idaho	ID	Franklin	041			42.1109	-111.8565	4
+US	83283	Thatcher	Idaho	ID	Franklin	041			42.3794	-111.6841	4
+US	83286	Weston	Idaho	ID	Franklin	041			42.0446	-111.9715	4
+US	83420	Ashton	Idaho	ID	Fremont	043			44.0153	-111.4253	4
+US	83421	Chester	Idaho	ID	Fremont	043			44.0011	-111.5351	4
+US	83429	Island Park	Idaho	ID	Fremont	043			44.4466	-111.3679	4
+US	83433	Macks Inn	Idaho	ID	Fremont	043			44.3192	-111.6017	1
+US	83436	Newdale	Idaho	ID	Fremont	043			43.8881	-111.6042	4
+US	83438	Parker	Idaho	ID	Fremont	043			43.9594	-111.7577	4
+US	83445	Saint Anthony	Idaho	ID	Fremont	043			43.963	-111.7036	4
+US	83451	Teton	Idaho	ID	Fremont	043			43.8907	-111.6504	4
+US	83617	Emmett	Idaho	ID	Gem	045			43.9089	-116.4927	4
+US	83636	Letha	Idaho	ID	Gem	045			43.8963	-116.6462	4
+US	83657	Ola	Idaho	ID	Gem	045			44.2418	-116.2732	4
+US	83670	Sweet	Idaho	ID	Gem	045			43.9948	-116.3232	4
+US	83314	Bliss	Idaho	ID	Gooding	047			42.9449	-114.9104	4
+US	83330	Gooding	Idaho	ID	Gooding	047			42.9373	-114.712	4
+US	83332	Hagerman	Idaho	ID	Gooding	047			42.8142	-114.887	4
+US	83355	Wendell	Idaho	ID	Gooding	047			42.7579	-114.7154	4
+US	83522	Cottonwood	Idaho	ID	Idaho	049			46.0448	-116.3733	4
+US	83525	Elk City	Idaho	ID	Idaho	049			45.7896	-115.5024	4
+US	83526	Ferdinand	Idaho	ID	Idaho	049			46.1349	-116.3982	4
+US	83530	Grangeville	Idaho	ID	Idaho	049			45.9272	-116.1076	4
+US	83531	Fenn	Idaho	ID	Idaho	049			45.9632	-116.2563	4
+US	83533	Greencreek	Idaho	ID	Idaho	049			46.1155	-116.2724	4
+US	83539	Kooskia	Idaho	ID	Idaho	049			46.116	-115.9459	4
+US	83542	Lucile	Idaho	ID	Idaho	049			45.557	-116.2669	4
+US	83547	Pollock	Idaho	ID	Idaho	049			45.3068	-116.3517	4
+US	83549	Riggins	Idaho	ID	Idaho	049			45.397	-116.3006	4
+US	83552	Stites	Idaho	ID	Idaho	049			46.002	-115.9269	4
+US	83554	White Bird	Idaho	ID	Idaho	049			45.7521	-116.2889	4
+US	83671	Warren	Idaho	ID	Idaho	049			45.2641	-115.6765	4
+US	83425	Hamer	Idaho	ID	Jefferson	051			43.9308	-112.1872	4
+US	83431	Lewisville	Idaho	ID	Jefferson	051			43.6725	-112.0189	4
+US	83434	Menan	Idaho	ID	Jefferson	051			43.7266	-111.9837	4
+US	83435	Monteview	Idaho	ID	Jefferson	051			43.9862	-112.5783	4
+US	83442	Rigby	Idaho	ID	Jefferson	051			43.6715	-111.9005	4
+US	83443	Ririe	Idaho	ID	Jefferson	051			43.5197	-111.5266	4
+US	83444	Roberts	Idaho	ID	Jefferson	051			43.7116	-112.1196	4
+US	83450	Terreton	Idaho	ID	Jefferson	051			43.8586	-112.42	4
+US	83325	Eden	Idaho	ID	Jerome	053			42.5868	-114.2467	4
+US	83335	Hazelton	Idaho	ID	Jerome	053			42.5955	-114.135	4
+US	83338	Jerome	Idaho	ID	Jerome	053			42.7178	-114.5012	4
+US	83801	Athol	Idaho	ID	Kootenai	055			47.9267	-116.7318	4
+US	83803	Bayview	Idaho	ID	Kootenai	055			47.9822	-116.5494	4
+US	83810	Cataldo	Idaho	ID	Kootenai	055			47.5522	-116.4431	4
+US	83814	Coeur d'Alene	Idaho	ID	Kootenai	055			47.6928	-116.785	4
+US	83815	Coeur d'Alene	Idaho	ID	Kootenai	055			47.7248	-116.789	4
+US	83816	Coeur d'Alene	Idaho	ID	Kootenai	055			47.6777	-116.7805	4
+US	83833	Harrison	Idaho	ID	Kootenai	055			47.5017	-116.7446	4
+US	83835	Hayden	Idaho	ID	Kootenai	055			47.7989	-116.7423	4
+US	83842	Medimont	Idaho	ID	Kootenai	055			47.4625	-116.5683	4
+US	83854	Post Falls	Idaho	ID	Kootenai	055			47.7205	-116.9353	4
+US	83858	Rathdrum	Idaho	ID	Kootenai	055			47.8241	-116.8873	4
+US	83869	Spirit Lake	Idaho	ID	Kootenai	055			47.9657	-116.868	4
+US	83876	Worley	Idaho	ID	Kootenai	055			47.4292	-116.9056	4
+US	83877	Post Falls	Idaho	ID	Kootenai	055			47.718	-116.9516	4
+US	83535	Juliaetta	Idaho	ID	Latah	057			46.5754	-116.7188	4
+US	83537	Kendrick	Idaho	ID	Latah	057			46.6286	-116.6049	4
+US	83806	Bovill	Idaho	ID	Latah	057			46.8588	-116.3935	4
+US	83823	Deary	Idaho	ID	Latah	057			46.8061	-116.5238	4
+US	83832	Genesee	Idaho	ID	Latah	057			46.5714	-116.929	4
+US	83834	Harvard	Idaho	ID	Latah	057			46.9376	-116.7025	4
+US	83843	Moscow	Idaho	ID	Latah	057			46.7309	-116.9897	4
+US	83844	Moscow	Idaho	ID	Latah	057			46.7324	-117.0002	4
+US	83855	Potlatch	Idaho	ID	Latah	057			46.9448	-116.9141	4
+US	83857	Princeton	Idaho	ID	Latah	057			46.8996	-116.8287	4
+US	83871	Troy	Idaho	ID	Latah	057			46.7426	-116.7681	4
+US	83872	Viola	Idaho	ID	Latah	057			46.8583	-116.9732	4
+US	83229	Cobalt	Idaho	ID	Lemhi	059			45.093	-114.2317	1
+US	83253	May	Idaho	ID	Lemhi	059			44.6044	-113.912	1
+US	83462	Carmen	Idaho	ID	Lemhi	059			45.255	-113.8573	4
+US	83463	Gibbonsville	Idaho	ID	Lemhi	059			45.5704	-113.9913	4
+US	83464	Leadore	Idaho	ID	Lemhi	059			44.7389	-113.4926	4
+US	83465	Lemhi	Idaho	ID	Lemhi	059			44.8516	-113.6198	4
+US	83466	North Fork	Idaho	ID	Lemhi	059			45.4242	-114.0419	4
+US	83467	Salmon	Idaho	ID	Lemhi	059			45.1571	-113.8784	4
+US	83468	Tendoy	Idaho	ID	Lemhi	059			44.9681	-113.8167	4
+US	83469	Shoup	Idaho	ID	Lemhi	059			45.3769	-114.277	4
+US	83523	Craigmont	Idaho	ID	Lewis	061			46.2453	-116.4677	4
+US	83536	Kamiah	Idaho	ID	Lewis	061			46.2186	-116.0347	4
+US	83543	Nezperce	Idaho	ID	Lewis	061			46.2475	-116.2393	4
+US	83548	Reubens	Idaho	ID	Lewis	061			46.3361	-116.5333	4
+US	83555	Winchester	Idaho	ID	Lewis	061			46.2383	-116.6204	4
+US	83324	Dietrich	Idaho	ID	Lincoln	063			42.9125	-114.2664	4
+US	83349	Richfield	Idaho	ID	Lincoln	063			43.0588	-114.1508	4
+US	83352	Shoshone	Idaho	ID	Lincoln	063			42.9474	-114.3822	4
+US	83440	Rexburg	Idaho	ID	Madison	065			43.81	-111.789	4
+US	83441	Rexburg	Idaho	ID	Madison	065			43.7761	-111.691	4
+US	83448	Sugar City	Idaho	ID	Madison	065			43.8477	-111.6932	4
+US	83460	Rexburg	Idaho	ID	Madison	065			43.826	-111.7897	4
+US	83336	Heyburn	Idaho	ID	Minidoka	067			42.5599	-113.7709	4
+US	83343	Minidoka	Idaho	ID	Minidoka	067			42.773	-113.5098	4
+US	83347	Paul	Idaho	ID	Minidoka	067			42.624	-113.7971	4
+US	83350	Rupert	Idaho	ID	Minidoka	067			42.6888	-113.6481	4
+US	83501	Lewiston	Idaho	ID	Nez Perce	069			46.3646	-116.8609	4
+US	83524	Culdesac	Idaho	ID	Nez Perce	069			46.378	-116.6536	4
+US	83540	Lapwai	Idaho	ID	Nez Perce	069			46.4124	-116.7902	4
+US	83545	Peck	Idaho	ID	Nez Perce	069			46.4807	-116.4114	4
+US	83243	Holbrook	Idaho	ID	Oneida	071			42.1619	-112.6539	4
+US	83252	Malad City	Idaho	ID	Oneida	071			42.1808	-112.262	1
+US	83604	Bruneau	Idaho	ID	Owyhee	073			42.614	-115.8419	4
+US	83624	Grand View	Idaho	ID	Owyhee	073			42.9896	-116.0934	4
+US	83628	Homedale	Idaho	ID	Owyhee	073			43.6138	-116.9472	4
+US	83639	Marsing	Idaho	ID	Owyhee	073			43.5399	-116.824	4
+US	83650	Murphy	Idaho	ID	Owyhee	073			42.8481	-116.6371	4
+US	83619	Fruitland	Idaho	ID	Payette	075			44.0027	-116.9143	4
+US	83655	New Plymouth	Idaho	ID	Payette	075			43.959	-116.8048	4
+US	83661	Payette	Idaho	ID	Payette	075			44.0782	-116.9203	4
+US	83211	American Falls	Idaho	ID	Power	077			42.6352	-112.9458	4
+US	83212	Arbon	Idaho	ID	Power	077			42.5026	-112.5585	4
+US	83271	Rockland	Idaho	ID	Power	077			42.5556	-112.854	4
+US	83802	Avery	Idaho	ID	Shoshone	079			47.2714	-115.866	4
+US	83808	Calder	Idaho	ID	Shoshone	079			47.3219	-116.0703	4
+US	83812	Clarkia	Idaho	ID	Shoshone	079			47.0107	-116.2529	4
+US	83837	Kellogg	Idaho	ID	Shoshone	079			47.5431	-116.1253	4
+US	83839	Kingston	Idaho	ID	Shoshone	079			47.5509	-116.2887	4
+US	83846	Mullan	Idaho	ID	Shoshone	079			47.4709	-115.7926	4
+US	83849	Osburn	Idaho	ID	Shoshone	079			47.5211	-116.021	4
+US	83850	Pinehurst	Idaho	ID	Shoshone	079			47.5018	-116.2647	4
+US	83867	Silverton	Idaho	ID	Shoshone	079			47.4981	-115.9657	4
+US	83868	Smelterville	Idaho	ID	Shoshone	079			47.5362	-116.2062	4
+US	83873	Wallace	Idaho	ID	Shoshone	079			47.4908	-115.962	4
+US	83874	Murray	Idaho	ID	Shoshone	079			47.6271	-115.8585	4
+US	83422	Driggs	Idaho	ID	Teton	081			43.7263	-111.1199	4
+US	83424	Felt	Idaho	ID	Teton	081			43.8724	-111.1895	4
+US	83452	Tetonia	Idaho	ID	Teton	081			43.7814	-111.2118	4
+US	83455	Victor	Idaho	ID	Teton	081			43.6148	-111.1259	4
+US	83301	Twin Falls	Idaho	ID	Twin Falls	083			42.5565	-114.4693	4
+US	83302	Rogerson	Idaho	ID	Twin Falls	083			42.218	-114.5942	4
+US	83303	Twin Falls	Idaho	ID	Twin Falls	083			42.563	-114.4609	4
+US	83316	Buhl	Idaho	ID	Twin Falls	083			42.6008	-114.7825	4
+US	83321	Castleford	Idaho	ID	Twin Falls	083			42.521	-114.8734	4
+US	83328	Filer	Idaho	ID	Twin Falls	083			42.5653	-114.614	4
+US	83334	Hansen	Idaho	ID	Twin Falls	083			42.5249	-114.2994	4
+US	83341	Kimberly	Idaho	ID	Twin Falls	083			42.5287	-114.3657	4
+US	83344	Murtaugh	Idaho	ID	Twin Falls	083			42.4776	-114.1606	4
+US	83611	Cascade	Idaho	ID	Valley	085			44.6927	-115.6417	4
+US	83615	Donnelly	Idaho	ID	Valley	085			44.6659	-116.0369	4
+US	83635	Lake Fork	Idaho	ID	Valley	085			44.8327	-116.0848	4
+US	83638	McCall	Idaho	ID	Valley	085			44.8918	-116.0789	4
+US	83677	Yellow Pine	Idaho	ID	Valley	085			44.9698	-115.4963	4
+US	83610	Cambridge	Idaho	ID	Washington	087			44.5922	-116.6757	4
+US	83645	Midvale	Idaho	ID	Washington	087			44.442	-116.7038	4
+US	83672	Weiser	Idaho	ID	Washington	087			44.2522	-116.9651	4
