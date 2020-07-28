@@ -1,6 +1,14 @@
+-----------------------------------
+Overview:
+-----------------------------------
 
+A three month service learning project for the Idaho Policy Institute(IPI); this is a project I completed for my graduate data science course at Boise State. This Project successfully makes use of Idaho's municipal government financial data by providing insightful models to augment the decision making process. This specifically correlates government expenditure and crime allowing for the optimization of all future investments. 
 
-Readme for GeoNames Postal Code files :
+-----------------------------------
+Data Manual:
+-----------------------------------
+
+GeoNames Postal Code files :
 
 allCountries.zip: all countries, for the UK only the outwards codes, the UK total codes are in GB_full.csv.zip 
 GB_full.csv.zip the full codes for the UK, ca 1.7 mio rows
