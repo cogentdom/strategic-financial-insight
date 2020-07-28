@@ -1,3 +1,5 @@
+
+
 Readme for GeoNames Postal Code files :
 
 allCountries.zip: all countries, for the UK only the outwards codes, the UK total codes are in GB_full.csv.zip 
