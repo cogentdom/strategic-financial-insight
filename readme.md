@@ -5,6 +5,19 @@ Overview:
 A three month service learning project for the Idaho Policy Institute(IPI); this is a project I completed for my graduate data science course at Boise State. This Project successfully makes use of Idaho's municipal government financial data by providing insightful models to augment the decision making process. This specifically correlates government expenditure and crime allowing for the optimization of all future investments. 
 
 -----------------------------------
+Summary:
+-----------------------------------
+
+I was provided a database comprised of financial expenditure/revenue and crime for various cities in Idaho. My client, the Idaho Policy Institute, desired to know how better to allocate resources to better reduce crime. Throughout my analysis I found the data to contain missing values, was unbalance along the temporal axis and was overall sparse. However, after some data scrapping, dimensionality reduction and minimal interpolation; I was successful in cleaning the data having greatly reduced the noise.
+
+I then used a non biased OLS time fixed effects regression model to further understand the data. Having made a statistically significant and reliable model I was able to draw a clear insight. Many of the features were that of general/overall expenditure and revenue, thus were not only largely correlated to crime but also population. This is difficult because logically, more people means more total crime even if the rates are identical.
+
+Taking another look at the model I then noticed that the most statistically significant feature (by a large margin) was that of "long term outstanding debt." The correlation between long term debt of a city and the associated crime provided invaluable insight towards the client's desired objective, reducing crime. Using this information government bodies are better able to allocate resources; by removing the "pigeon superstition" associated to investing funds, my analysis saved local governments thousands of dollars.
+
+
+
+
+-----------------------------------
 Data Manual:
 -----------------------------------
 
