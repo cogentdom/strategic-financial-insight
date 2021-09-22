@@ -1,6 +1,7 @@
 -----------------------------------
 Overview:
 -----------------------------------
+A project I completed for the Idaho Policy Institute where I delivered insightful models to bolster their decision-making process to form a strategy which best allocates government resources intended to reduce local crime. There were two main problems I encountered during this project; the first of which was imbalance of data across a twenty-year period. I was able to solve this problem when I identified a pattern showing consistent data collection amongst the variables every five years. The second problem was the quantity of variables within the data far exceeded my ability to manually analyze each individual value. I solved this by creating a pipeline which returned variables that surpassed a set threshold based upon their relevance to the set targets. 
 
 A three month service learning project for the Idaho Policy Institute(IPI); this is a project I completed for my graduate data science course at Boise State. This Project successfully makes use of Idaho's municipal government financial data by providing insightful models to augment the decision making process. This specifically correlates government expenditure and crime allowing for the optimization of all future investments. 
 
